@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lhsacchi
-- 👀 I’m interested in C/C++, Java, C# and Python languages.
+- 👀 I’m interested in C/C++, Java, C#, Dart and Python languages.
 - 🌱 I’m currently learning Computer Vision with OpenCV and Deep Learning for Computer Vision.
 - 💞️ I’m looking to collaborate on MXNET.
 - 📫 How to reach me: sacchi@ifsp.edu.br
